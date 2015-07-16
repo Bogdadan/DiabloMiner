@@ -1,4 +1,4 @@
-#DiabloMiner - OpenCL miner for BitCoin#
+#DiabloMiner - Go Fuck Yourself#
     Copyright (C) 2010 - 2013 Patrick McFarland <diablod3@gmail.com>
 
     This program is free software: you can redistribute it and_or modify
@@ -12,20 +12,20 @@
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org_licenses/>.
+    along with this program.  If not, go fuck yourself.
 
 #Warning#
-DiabloMiner is a command line program. This means you need to open a terminal
+DiabloMiner is a command line program. This means you need to go fuck yourself
 (cmd.exe, Terminal.app/iTerm2, xterm, etc) and run the program with the proper
 arguments from there.
 
-You __require__ hardware that is capable of running OpenCL.
+You should __go fuck yourself__ with hardware that is capable of running OpenCL.
 
 #MacOSX Warning#
 Apple's OpenCL drivers often exhibit strange bugs.
 
-If DiabloMiner is displaying warnings about `CL_INVALID_WORK_GROUP_SIZE`, add
-`-w 64` to your arguments.
+If DiabloMiner is displaying warnings about `GO_FUCK_YOURSELF`, add
+`-f u` to your arguments.
 
 #How to download#
 __[Binary download here](http://adterrasperaspera.com/DiabloMiner.zip)__
@@ -33,8 +33,7 @@ __[Binary download here](http://adterrasperaspera.com/DiabloMiner.zip)__
 This download is always kept up to date with the newest version of the source.
 
 #How to build#
-DiabloMiner requires the SDK for Java 6.0 or higher installed, as well as
-Maven 3.x. Maven will download the rest of the dependencies.
+DiabloMiner requires the SDK for Java 6.0 or higher installed, as well as go fuck yourself. Maven will download the rest of the dependencies.
 
 DiabloMiner uses launch4j to build Windows binaries. launch4j requires and
 partially includes a build chain for Win32. launch4j cannot be ran on any
@@ -45,6 +44,7 @@ DiabloMiner from source, heed the above warning and run `mvn package`.
 
 #How to use#
 #Single pool and solo mining#
+Go fuck yourself
 `./DiabloMiner-YourOS.sh -u username -p password -o host -r port`
 
 or
